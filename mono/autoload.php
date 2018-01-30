@@ -11,7 +11,7 @@ if (DEBUG) {
 }
 
 if(phpversion() < 5.3){
-    die("The lowest version that you can use VNOX Framework with is 5.3.");
+    die("The lowest version that you can use MONO Framework with is 5.3.");
 }
 /**
  *  Simple loading function implemented by Mono.
